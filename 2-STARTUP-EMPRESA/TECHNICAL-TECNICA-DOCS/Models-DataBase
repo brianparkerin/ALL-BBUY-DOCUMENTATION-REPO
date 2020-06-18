@@ -1,0 +1,199 @@
+DataBase: 
+
+Formularios: Registro, login, billing info, payment methoods, add product, create Store & Seller, mailing updates subscribe
+
+Tablas: Users, Sellers, Products, Reviews, Post
+
+Datos: personal data, product data, selling data,
+
+ 
+
+_________________________________________________________________________________________________________________________
+
+
+
+
+
+
+Aplicacion Servidor: 
+
+User:
+
+Seller:
+
+Product: 
+
+
+
+
+Aplicacion Cliente: 
+
+Catalogo: 
+
+Product info 
+
+
+
+
+
+
+
+
+
+
+Product {
+
+    Product _Id: 
+
+    reproductor Name: 
+
+    microchip:
+    
+    category: (Horses / Cows / Porks / Cats  / Dogs / Sheeps / Goats / Donkey / Buffalo / Mule / Wildlife / Other: (Spacify create or add new one))
+    
+    servicios:
+
+    precio: 
+
+    cantidad:
+     
+    prestaciones: primer envio gratis, Garantia de cria viva al nacer, Seguro Basico de Compra...
+     
+    propietario: {
+    
+                  User _Id:
+                       
+                  Name:
+                        
+                }
+
+    vendedor:  {
+    
+                Seller _Id:
+                
+                Name:
+                
+               }
+    
+    Description: 
+    
+    createdAt: (TimeStamp: Fecha de creacion)
+    
+    Reviews:  {
+    
+                    _Id:
+                    
+                    Name:
+                    
+                    Valuation / Puntuation:
+                    
+                    Comment:
+    
+                }
+    
+    
+    pictures:  X3.
+    
+    Video: X2.
+    
+    Catalogo of current year: Free Downloading... (PDF)
+    
+
+
+}
+
+
+
+
+
+
+
+_________________________________________________________________________________________________________________________
+
+USUARIO Y TIPOS DE CUENTAS: (SUBCRIPTION SERVICES)
+
+
+Curret Users/Buyers :
+
+User _Id: 
+
+Name:
+
+Last Name:
+
+username:
+
+Email:
+
+Password:
+
+
+Premium Users / Premium Custumers by  Premium Subscription Account:
+
+_________________________________________________________________________________________________________________________
+
+TIPO DE USUARIOS TAMBIEN REGISTRADOS COMO: VENDEDORES (CLASIFICACION POR TIPO DE CUENTA Y TIPO DE SUSCRIPCION)
+
+
+
+Sellers:
+
+User _Id:
+
+Name:
+
+Last Name:
+
+username:
+
+Organization / Ganaderia: owner / Store-Brand.
+
+Business Email:
+
+Tel:
+
+Address:
+
+Website:
+
+Social links:
+
+Payment Methood for Business: Paypal / Stripe / Skrill / Payooner / Pay U / Business Bank Account.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_________________________________________________________________________________________________________________________
+
+
+
+BILLLING PAYMENTS METHODS DATA:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Premium Users / Premium Custumers by  Premium Subscription Account:
+
+
+
+

@@ -1,0 +1,109 @@
+MERN  (MongoDB, Express, React y NodeJs) Stack E-Commerce....
+
+
+
+ · CLOUD SERVER:
+
+- OPENSTACK.
+
+
+ · OS:
+ 
+- Linux.
+
+
+ · CONTENEIRIZACION & LOAD BALANCER: 
+
+Docker Container Image. (Centos & Ubuntu. / Dholpin / Fedora).
+
+
+Kubernetes.
+
+
+ · BACKEND:
+
+Mongo & Mongoose. MySQL.
+
+GraphQl.
+
+Babel.
+
+NodeJs & TypeScript.
+
+ManillaJS.
+
+
+ · FORMATO UNICO DE COMUNICACION ENTRE APPS BAKEND-TO-BAKEND & FRONTEND TO BACKEND:
+
+JSON.
+
+YML.
+
+
+ · LOS DATOS VIAJAN A TRAVES DE PROTOCOLOS HTTPS CON CIFRADOS SSL DE ALTA POTENCIA:
+ 
+SSL ENCRYPTED END-TO-END.
+
+
+· FRONTEND:
+
+React.
+
+WebPack.
+
+Socketio.
+
+
+
+ · APP MOBILE:
+
+FLUTTER.
+
+
+
+ · DESKTOP APP:
+
+ELECTRONJS.
+
+
+ · KEY CONCEPT:
+ 
+- ARQUTITECTURA:
+
+MICROSERVICIOS FULLSTACK, REACTIVA Y REALTIME.
+
+
+- INFRAESTRUCTURA CLOUD: (PUBLIC & PRIVATE CLOUD)
+
+PROPIA SOBRE CLUSTER DE SERVIDORES FISICOS PROPIOS O ALQUILADOS PROVEIDOS Y SOPORTADOS POR TERCEROS.
+
+
+
+DESARROLLO, TESTING & PRODUCTION:
+
+
+CONTINUOUS INTEGRATION & TESTING. 
+PROCESOS DE INTEGRACION CONSTANTE E INTEGRACION CONTINUA.
+
+
+
+ · PLEASE NOTE:
+
+
+"MERN" es el acrónimo de cuatro herramientas: MongoDB, Express, React y Node. js. Cuando se integran, forman una arquitectura Full Stack y permiten realizar ciertas funciones de back-end sin tener que aprender un lenguaje de back-end completamente nuevo.
+
+
+
+NOTA DEL CEO & FUNDADOR: 
+
+MI TRABAJO AQUI ES DE DESARROLLADOR DE TODA LA APLICACION. LA IDEA DE NEGOCIO Y LA BASE ESTRUCTURAL DE LO QUE SERIA EN ADELANTE Y FUTURO EL NEGOCIO O LA STARTUP, EN ESTE CASO CON EL SOFTWARE COMO CORE DE LA COMPAÑIA, YA QUE HABLAMOS DE UNA STARTUP E-COMMERCE MARKETPLACE B2C DEL TIPO SAAS.
+
+
+
+
+
+
+
+
+
+
